@@ -12,7 +12,7 @@ A simple and interactive calculator built with **HTML, CSS, and JavaScript**. Th
 You can try it live by opening the `index.html` file in your browser.
 
 ## Screenshots
-![Calculator Screenshot](Screenshot 2025-09-10 235556.png) <!-- Optional: add your screenshot here -->
+![Calculator Screenshot](Screenshot 2025-09-10 235556.png) 
 
 ## Installation
 1. Clone the repository:
